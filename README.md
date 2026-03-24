@@ -1,78 +1,85 @@
 # Hi 👋, I'm Himanshu Kashyap
 
-💻 Full Stack Developer | AI/ML Enthusiast  
-🚀 Building scalable apps & AI-powered solutions  
+🚀 AI + Backend Engineer | Full Stack Developer  
+💡 Building scalable systems & AI-powered applications  
 📍 India  
 
 ---
 
-## 🚀 About Me
-- 🎓 MCA Graduate (Galgotias University)
-- 💼 Software Developer @ Sofyrus Technologies
-- 🧠 Passionate about AI, Microservices & System Design
-- ⚡ Love building real-world scalable applications
-- 🤖 Exploring AI + Backend Engineering
+## 🧠 About Me
+
+- 💼 Software Developer @ Sofyrus Technologies  
+- 🎓 MCA Graduate  
+- ⚙️ Strong in Backend (Node.js, NestJS, FastAPI)  
+- 🤖 Building AI-powered apps using LLMs & Vector DBs  
+- 📈 Focused on scalable architecture & microservices  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages & Frameworks
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs)
-![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
+### Backend
+Node.js | NestJS | Express | FastAPI  
 
----
+### Frontend
+React.js | Next.js  
 
-### 🗄️ Databases
-MongoDB | MySQL | PostgreSQL | Vector DB  
+### Databases
+MongoDB | PostgreSQL | MySQL | Vector DB  
 
----
+### DevOps & Tools
+Docker | GitHub Actions | Linux | Postman  
 
-### ⚙️ Tools & DevOps
-Git | GitHub | Docker | Linux | Postman | CI/CD  
-
----
-
-### 🤖 AI / GenAI
-OpenAI | Gemini | Claude | Hugging Face | AWS  
+### AI / GenAI
+OpenAI | LangChain | Hugging Face | Gemini | Claude  
 
 ---
 
 ## 💼 Experience
 
-### 🏢 Software Developer – Sofyrus Technologies
+### 🏢 Sofyrus Technologies — Software Developer
 📅 May 2025 – Present  
 
-- Built **COCFO** financial platform integrating QuickBooks, Zoho, Xero  
-- Developed REST APIs & data visualization systems  
-- Implemented CI/CD pipelines using GitHub Actions  
+- Built financial platform integrating QuickBooks, Zoho, Xero  
+- Designed REST APIs & handled data visualization  
+- Implemented CI/CD pipelines (GitHub Actions)  
 - Integrated AI chatbot for financial insights  
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🤖 **MediBot** – AI medical assistant (LangChain + LLM + Vector DB)  
-- 🔐 **Password Manager (MERN)** – Secure CRUD-based system  
-- 🧠 **AI Content Summarizer** – FastAPI + React  
-- 📝 **Blog Platform** – JWT auth + file uploads  
-- ❤️ **Disease Prediction System** – ML model with 95% accuracy  
-- 📊 **Airflow ETL Pipeline** – Twitter data → PostgreSQL  
+### 🤖 MediBot (AI Medical Assistant)
+- Built using **LangChain + Vector DB + LLM**
+- Context-aware medical responses
+
+### 🧠 AI Content Summarizer
+- FastAPI backend + React frontend  
+- Real-time summarization  
+
+### 🔐 Password Manager (MERN)
+- Secure authentication + CRUD system  
+
+### 📊 Airflow ETL Pipeline
+- Twitter data → processed → PostgreSQL  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=himanshu7906&show_icons=true&theme=radical)
 
-![Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical)
+![Streak](https://streak-stats.demolab.com/?user=himanshu7906&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu7906&layout=compact&theme=radical)
+
+---
+
+## 🎯 Current Focus
+
+- 🔥 Microservices with NestJS  
+- 🤖 AI Agents & LLM apps  
+- ⚡ Scalable backend systems  
 
 ---
 
@@ -83,9 +90,4 @@ OpenAI | Gemini | Claude | Hugging Face | AWS
 
 ---
 
-## 👀 Visitor Count
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername)
-
----
-
-⭐ *"Building scalable systems and AI-powered solutions that solve real-world problems."*
+⭐ *Building real-world systems that combine AI with scalable backend architecture*
