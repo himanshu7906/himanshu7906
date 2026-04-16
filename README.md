@@ -1,27 +1,36 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="30"> Hi, I'm Himanshu Kashyap!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="30"> Hey, I'm Himanshu Kashyap 👨‍💻
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=himanshu7906&label=Profile%20Views&color=0e75b6&style=flat" alt="himanshu7906" />
-<img src="https://img.shields.io/github/followers/himanshu7906?label=Followers&style=flat&color=0e75b6" alt="followers" />
+<img src="https://komarev.com/ghpvc/?username=himanshu7906&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/github/followers/himanshu7906?label=Followers&style=flat&color=0e75b6" />
 </p>
 
 ---
 
-### 🚀 Full Stack Developer | Generative AI Engineer | Scalable Systems
+## 🚀 Full Stack Developer • Generative AI Engineer • System Builder
 
-I build **production-ready applications** at the intersection of
-⚡ **Full Stack Development**, 🤖 **Generative AI**, and 🏗 **Distributed Systems**
+I build **scalable, production-ready applications** that combine
+⚡ Full Stack Engineering + 🤖 Generative AI + 🏗 System Design
 
-* 🔧 Focused on **scalable backend architecture & microservices**
-* 🤖 Building **AI-powered applications using LLMs & vector databases**
-* 🌐 Developing **modern, high-performance frontend systems**
-* ⚡ Writing **clean, maintainable, and production-grade code**
+* 🔧 Architecting **microservices & distributed systems**
+* 🤖 Developing **AI-powered apps using LLMs & vector databases**
+* 🌐 Creating **modern, high-performance frontend experiences**
+* ⚡ Writing **clean, maintainable, production-grade code**
+
+---
+
+## 🧠 What I’m Currently Focused On
+
+* 🏗 Scalable backend systems (NestJS, microservices)
+* 🤖 Generative AI apps (LangChain, OpenAI, RAG)
+* ☁️ DevOps & Cloud (Docker, AWS)
+* 📊 System Design & real-world architecture
 
 ---
 
 ## 💻 Tech Stack
 
-### 👨‍💻 Languages & Frameworks
+### 👨‍💻 Core
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat\&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat\&logo=typescript)
@@ -29,46 +38,48 @@ I build **production-ready applications** at the intersection of
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat\&logo=next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat\&logo=node.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat\&logo=nestjs)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat\&logo=fastapi)
 
 ---
 
-### 🤖 AI / Generative AI
+### 🤖 AI / GenAI
 
 ![OpenAI](https://img.shields.io/badge/-OpenAI-black?style=flat)
-![Gemini](https://img.shields.io/badge/-Gemini-blue?style=flat)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-yellow?style=flat)
 ![LangChain](https://img.shields.io/badge/-LangChain-green?style=flat)
-![Vector DB](https://img.shields.io/badge/-VectorDB-orange?style=flat)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-yellow?style=flat)
+![VectorDB](https://img.shields.io/badge/-VectorDB-orange?style=flat)
 
 ---
 
-### 🗄️ Databases
+### ⚙️ Dev & Infra
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat\&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat\&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat\&logo=mysql)
-
----
-
-### ⚙️ DevOps & Tools
-
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat\&logo=docker)
-![Git](https://img.shields.io/badge/-Git-F05033?style=flat\&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat\&logo=linux)
-![Apache Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat\&logo=apache-airflow)
 
 ---
 
 ## 🏆 Featured Projects
 
-### 🧠 Mock Interview App
+### 🏥 MediSync — Healthcare SaaS Platform
+
+🔗 https://github.com/himanshu7906/MediSync
+
+* Premium **doctor appointment ecosystem (MERN)**
+* Advanced **UI/UX with GSAP animations**
+* Role-based system: Patient • Doctor • Admin
+* Integrated **payments (Stripe/Razorpay) + Cloudinary**
+* Designed as a **scalable SaaS product**
+
+---
+
+### 🧠 Mock Interview App (AI)
 
 🔗 https://github.com/himanshu7906/Mock_Interview_App
 
-* AI-powered interview platform with real-time evaluation
-* Uses **LLMs + intelligent feedback system**
-* Focused on **career-tech + AI integration**
+* AI-powered mock interview system
+* Real-time evaluation & feedback
+* Built using **LLM-based interaction systems**
 
 ---
 
@@ -77,17 +88,17 @@ I build **production-ready applications** at the intersection of
 🔗 https://github.com/himanshu7906/Nest-Auth-Microservices
 
 * Microservices-based authentication system
-* API Gateway + Redis messaging architecture
-* Scalable and production-ready backend design
+* API Gateway + Redis messaging
+* Production-ready backend architecture
 
 ---
 
-### 🤖 AI Projects (From Resume)
+## 🤖 AI & Data Projects
 
-* 🧠 **MediBot** – AI medical assistant (LangChain + Vector DB + LLM)
-* 📄 **AI Content Summarizer & ATS Tool**
-* 📊 **Airflow ETL Pipeline (Twitter Data → PostgreSQL)**
-* ❤️ **ML Models for Health Prediction (95% accuracy)**
+* 🧠 MediBot — AI medical assistant (LLM + Vector DB)
+* 📄 AI Content Summarizer & ATS Tool
+* 📊 Apache Airflow ETL Pipeline (Real-time data processing)
+* ❤️ ML-based Health Prediction Models
 
 ---
 
@@ -100,10 +111,10 @@ I build **production-ready applications** at the intersection of
 
 ---
 
-## 🧠 Engineering Mindset
+## 🧠 Engineering Philosophy
 
-> I design systems that are **scalable, efficient, and production-ready**
-> blending **software engineering principles with AI innovation**
+> I build systems that are not just functional —
+> but **scalable, maintainable, and ready for real-world use**
 
 ---
 
@@ -115,4 +126,4 @@ I build **production-ready applications** at the intersection of
 
 ---
 
-⭐ *Always learning. Always building. Always improving.*
+⭐ *Focused on building impactful systems with clean architecture and AI integration*
